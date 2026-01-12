@@ -21,8 +21,9 @@ This repository contains code and experiments for adversarial attacks and defens
 
 - `robotics_adversarial_path_planning.py` — main simulator / training / evaluation entry point  
 - `ensemble_edd_transfer_attack.py` — EDD + transfer-attack evaluation (if present)  
-- `assets/figures/` — figures shown in this README  
-- `paper/` — (optional) the paper PDF (only if anonymity allows)
+- `README.md` — project overview (this file)  
+- `Robotics_Paper.pdf` — paper PDF (already uploaded)  
+- `Robotics_Paper_Pic1` … `Robotics_Paper_Pic12` — paper figures (currently stored in repo root)
 
 ---
 
