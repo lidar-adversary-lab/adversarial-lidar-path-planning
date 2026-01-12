@@ -12,11 +12,6 @@ This repository contains code and experiments for adversarial attacks and defens
 - [Paper](#paper)
 
 ---
-
-## Figures (from the paper)
-
-> These links assume the images are in the repo root and end in **.PNG** (uppercase).
-
 ### Fig. 1 — A* Path Example (Gridworld)
 ![Fig. 1](./Robotics_Paper_Pic1.PNG)
 
