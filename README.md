@@ -30,7 +30,7 @@ This repository contains code and experiments for adversarial attacks and defens
 ## Quick Start
 
 ### 1) Install
-```bash
+bash
 python -m venv .venv
 # Windows:
 .venv\Scripts\activate
