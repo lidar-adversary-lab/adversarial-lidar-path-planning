@@ -2,7 +2,7 @@
 
 This repository contains code and experiments for adversarial attacks and defenses on **LiDAR-based learned path planning** in a gridworld robotics simulator. We evaluate **white-box PGD** attacks, **black-box transfer** attacks, and layered defenses including **adversarial training**, **temporal modeling (LSTM)**, and a runtime defense: **Ensemble Disagreement Detection (EDD)** with **A\*** fallback.
 
-> **Anonymity warning:** If your repo must remain anonymous, do **NOT** upload a PDF that contains author names/affiliations into a **public** repository. Use a private repo or upload an anonymized PDF.
+> **Anonymity warning:** If this repo must remain anonymous, do **NOT** publish an author-identifying PDF in a **public** repository. Keep the repo private or upload an anonymized PDF.
 
 ---
 
@@ -17,13 +17,13 @@ This repository contains code and experiments for adversarial attacks and defens
 ---
 
 ## Repository Structure
-> Update this section to match your actual filenames after upload.
+> Update this section if your script filenames differ.
 
 - `robotics_adversarial_path_planning.py` — main simulator / training / evaluation entry point  
-- `ensemble_edd_transfer_attack.py` — EDD + transfer-attack evaluation (if present)  
+- `ensemble_edd_transfer_attack.py` — EDD + transfer attack evaluation (if present)  
 - `README.md` — project overview (this file)  
-- `Robotics_Paper.pdf` — paper PDF (already uploaded)  
-- `Robotics_Paper_Pic1` … `Robotics_Paper_Pic12` — paper figures (currently stored in repo root)
+- `Robotics_Paper.pdf` — paper PDF  
+- `Robotics_Paper_Pic1.PNG` … `Robotics_Paper_Pic12.PNG` — paper figures (rendered below)
 
 ---
 
